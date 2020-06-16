@@ -1,0 +1,3 @@
+include ':fragmentviewbinding'
+include ':app'
+rootProject.name = "KotlinViewBinding"
