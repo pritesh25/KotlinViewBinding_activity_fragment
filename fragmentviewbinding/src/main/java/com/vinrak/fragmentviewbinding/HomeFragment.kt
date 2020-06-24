@@ -1,5 +1,7 @@
 package com.vinrak.fragmentviewbinding
 
+import android.annotation.SuppressLint
+import android.net.ConnectivityManager
 import android.os.Bundle
 import android.view.LayoutInflater
 import android.view.View
@@ -21,6 +23,7 @@ class HomeFragment : Fragment() {
         return b.root
     }
 
+    @SuppressLint("SetTextI18n")
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
         b.tvFragmentName.text = "Hi this is fragment from of view binding"
