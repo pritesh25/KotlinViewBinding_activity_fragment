@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/KotlinViewBinding.iml" filepath="$PROJECT_DIR$/.idea/modules/KotlinViewBinding.iml" group="KotlinViewBinding" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="KotlinViewBinding/app" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fragmentviewbinding/fragmentviewbinding.iml" filepath="$PROJECT_DIR$/.idea/modules/fragmentviewbinding/fragmentviewbinding.iml" group="KotlinViewBinding/fragmentviewbinding" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/KotlinViewBinding.iml" filepath="$PROJECT_DIR$/.idea/modules/KotlinViewBinding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/KotlinViewBinding.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/KotlinViewBinding.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fragmentviewbinding/KotlinViewBinding.fragmentviewbinding.iml" filepath="$PROJECT_DIR$/.idea/modules/fragmentviewbinding/KotlinViewBinding.fragmentviewbinding.iml" />
     </modules>
   </component>
 </project>
